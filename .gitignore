@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/chapter1/.idea
+/chapter1/cmake-build-debug
+/chapter1/CMakeLists.txt
