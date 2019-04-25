@@ -33,3 +33,9 @@
 /chapter1/.idea
 /chapter1/cmake-build-debug
 /chapter1/CMakeLists.txt
+/chapter2/.idea
+/chapter2/CMakeLists.txt
+/chapter2/cmake-build-debug
+/chapter3/.idea
+/chapter3/cmake-build-debug
+/chapter3/CMakeLists.txt
